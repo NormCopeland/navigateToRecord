@@ -1,6 +1,6 @@
 # navigateToRecord Aura Component
 
-This Aura component is designed for Salesforce and is capable of redirecting users to a specific Salesforce record once a Flow involving this component completes. It's implemented to be used primarily in Salesforce Lightning Flows as a final action that takes users directly to a designated record. This is helpful particularly in the Salesforce mobile as url redirects won't work there.
+This Aura component is designed for Salesforce and is capable of redirecting users to a specific Salesforce record once a Flow involving this component completes. It's implemented to be used primarily in Salesforce Lightning Flows as a final action that takes users directly to a designated record. This is helpful particularly in the Salesforce mobile app as url redirects won't work there.
 
 ## Features
 
